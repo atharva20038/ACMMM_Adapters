@@ -37,7 +37,7 @@ For both models, we used two RTX A6000 GPUs over a period of around 10 hours. Th
 ## Evaluations
 ### **Objective Evaluation Metrics for Music Models**
 <div align="center">
-  <img src="img/fad+fd_image-1.pdf" width="900"/>
+  <img src="img/fad_fd_image-1.pdf" width="900"/>
 </div>
 
 ### **Human Evaluation**  
