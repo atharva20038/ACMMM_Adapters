@@ -22,7 +22,7 @@ makams and 62 distinct usuls.
 ## Adapter Positioning
 
 <div align="center">
-  <img src="img/" width="900"/>
+  <img src="img/Architecture-1.png" width="900"/>
 </div>
 
 ### Mustango
