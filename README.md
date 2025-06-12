@@ -22,7 +22,7 @@ makams and 62 distinct usuls.
 ## Adapter Positioning
 
 <div align="center">
-  <img src="img/model_settings-1.png" width="900"/>
+  <img src="img/" width="900"/>
 </div>
 
 ### Mustango
@@ -37,18 +37,18 @@ For both models, we used two RTX A6000 GPUs over a period of around 10 hours. Th
 ## Evaluations
 ### **Objective Evaluation Metrics for Music Models**
 <div align="center">
-  <img src="img/fad_fd.png" width="900"/>
+  <img src="img/fad+fd_image.pdf" width="900"/>
 </div>
 
 ### **Human Evaluation**  
 Hindustani Classical - Subjective Evaluation Results
 <div align="center">
-  <img src="img/hindustani_quality.png" width="900"/>
+  <img src="img/hindustani_quality (1).png" width="900"/>
 </div>
 
 Turkish Makam = Subjective Evaluation Results
 <div align="center">
-  <img src="img/makam.png" width="900"/>
+  <img src="img/makam (1).png" width="900"/>
 </div>
 
 
