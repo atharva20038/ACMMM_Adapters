@@ -92,6 +92,9 @@ We use the following bash script for training our version of adapters in the mod
 bash train.sh
 ```
 
+## Adapter Versions
+To use different adapter sizes, we provide the code for each adapter in the `Mustango_Adapter_Versions` folder. The file content can be directly copied and pasted in the file - `mustango/diffusers/src/diffusers/models/unet_2d_blocks.py`. 
+
 
 
 
