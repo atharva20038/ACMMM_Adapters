@@ -42,6 +42,8 @@ For both models, we used two RTX A6000 GPUs over a period of around 10 hours. Th
   <img src="img/fad_fd_image-1.png" width="900"/>
 </div>
 
+For Mustango, the objective evaluation results can also be seen in the following google sheet : [Spreadsheet](https://docs.google.com/spreadsheets/d/11aHVjt8zeHyMqmIBIdV5b4pvlu8gc83510HD0nwBrjo/edit?gid=0#gid=0).
+
 ### **Human Evaluation**  
 Hindustani Classical - Subjective Evaluation Results
 <div align="center">
