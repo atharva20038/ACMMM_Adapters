@@ -1,4 +1,5 @@
-### Exploring Adapter Designs
+### Exploring Adapter Design Tradeoffs for Low Resource Music Generation
+[Code](https://github.com/atharva20038/ACMMM_Adapters/edit/main) | [Models](https://huggingface.co/collections/athi180202/peft-adaptations-of-music-generation-models-684ba077a2a44999bb6cb175) | [Paper](https://arxiv.org/abs/2506.21298)
 This repository contains our code for the paper:  "Exploring Adapter Design Tradeoffs for Low Resource Music Generation"
 
 Fine-tuning large-scale music generation models, such as MusicGen and Mustango, is a computationally expensive process, often requiring updates to billions of parameters and, therefore, significant hardware resources. 
