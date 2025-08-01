@@ -46,6 +46,8 @@ python automate_inference.py --model saved/1734429910/model_2.bin \
                  --baseline
 ```
 
+For any other custom folder just add the path to the ```.bin``` file of the model in the argument ```--model```.
+
 This guide ensures that you can quickly get started with generating and evaluating music models with minimal setup! 🚀
 
 
